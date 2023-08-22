@@ -24,9 +24,11 @@ The Space Universal Visualization (sUv) solution will bridge the knowledge gaps 
 
 - **Objective:** To support space experts with a foundational understanding of cybersecurity and resilience.
 
-- **Solution Features:**  sUv offers universal icons and base diagrams tailored to simplify the cybersecurity domain. By familiarizing themselves with these visuals, space professionals can understand and incorporate cybersecurity measures, ensuring the resilience of their projects and missions. Here are the current icon groups.
-	- Platform Asset
-	- Platform Security Control
+- **Solution Features:**  sUv offers universal icons and base diagrams tailored to simplify cybersecurity. By familiarizing themselves with these visuals, space professionals can understand and incorporate cybersecurity measures, ensuring the resilience of their projects and missions. Here are the current icon groups.
+
+	- Platform Asset Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for the assets required for commercial space platforms.
+
+	- Platform Security Control Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for the primary recommended commercial space platform security controls.
 	- Platform Compliance Element
 	- Platform Vulnerability
 	- Platform Threat
