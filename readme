@@ -29,8 +29,11 @@ The Space Universal Visualization (sUv) solution will bridge the knowledge gaps 
 	- Platform Asset Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for the assets required for commercial space platforms.
 
 	- Platform Security Control Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for the primary recommended commercial space platform security controls.
-	- Platform Compliance Element
-	- Platform Vulnerability
+	
+	- Platform Compliance Element Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for the primary compliance controls supporting commercial space platforms.
+
+	- Platform Vulnerability Group: This group was established and will be maintained by the ethicallyHackingspace (eHs) community to provide a universal visual lexicon for commercial space platform vulnerabilities.
+
 	- Platform Threat
 	- SCOR-CMM
 	- Stride
