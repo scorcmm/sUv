@@ -1,4 +1,4 @@
-![What is this](ra.png)
+![Reference Architecture](ra.png)
 
 
 
