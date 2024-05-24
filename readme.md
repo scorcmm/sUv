@@ -5,20 +5,20 @@
 
 1. Aquatic Capabilities
 2. Terrestrial Capabilities
-   - Launch Capabilites
-   - Ground Capabilites
-   - User Capabilites
-   - Terrestrial Network Capabilites
-3. Link Capabilites
-4. Air Based Capabilites
+   - Launch Capabilities
+   - Ground Capabilities
+   - User Capabilities
+   - Terrestrial Network Capabilities
+3. Link Capabilities
+4. Air Based Capabilities
    - Low Altitude
    - High Altitude
    - Near Space
-5. Orbital Capabilites
+5. Orbital Capabilities
    - LEO (Low Earth Orbit)
    - MEO (Medium Earth Orbit)
    - GEO (Geostationary Orbit)
-6. Deep Space Capabilites
+6. Deep Space Capabilities
    - Deep Space Capability
 
 
