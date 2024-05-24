@@ -1,8 +1,6 @@
 ## Space Universial Visualization (sUv)™ an ethicallyHackingspace(eHs)® Core Community Tool
 ![Taxonomy](ra.png)
 
-# Space Universial Visualization (sUv)™ an ethicallyHackingspace(eHs)® Core Community Tool
-
 ## Phases
 ![Framework Phases](Phases.gif)
 1. **DECOMPOSE**: Break down the Space Data System using an evolving taxonomy and ontology.
