@@ -1,5 +1,12 @@
 ![Reference Architecture](ra.png)
 
+Sure, here is the updated description with the labels in bold:
+
+**Baseline Taxonomy:**
+**Primary Capability:** highest level taxonomy element used to categorize and then determine relationships for a Target of Evaluation
+**Secondary Capability:** second highest level taxonomy element used to develop the initial ontology for a Target of Evaluation
+**Segment:** Third highest level taxonomy element used to develop tertiary ontology for a Target of Evaluation
+**Asset:** Fourth highest level taxonomy element used to develop an operational ontology for a target of evaluation
 ## 6 Primary Capability Areas
 ## 11 Secondary Capability Areas
 
