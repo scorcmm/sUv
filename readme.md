@@ -4,11 +4,11 @@
 
 ## Framework Phases
 
-1. **Decompose**: Break down the space cybersecurity domain using an evolving taxonomy and ontology.
-2. **Visualize**: Introduce icons in the form of a periodic table element, vector icon, or photorealistic format into a decomposition diagram using draw.io.
-3. **Enrich**: Identify open source intelligence (OSINT) sources that provide contextual information for the Target of Evaluation.
-4. **Catalog**: Enter the contextual information into an online repository for historical and ongoing research.
-5. **Assess**: Continually leverage the cataloged information and update enrichment to understand OSINT-based Continuous Threat Exposure management across the space sector.
+1. **DECOMPOSE**: Break down the space cybersecurity domain using an evolving taxonomy and ontology.
+2. **VISUALIZE**: Introduce icons in the form of a periodic table element, vector icon, or photorealistic format into a decomposition diagram using draw.io.
+3. **ENRICH**: Identify open source intelligence (OSINT) sources that provide contextual information for the Target of Evaluation.
+4. **CATALOG**: Enter the contextual information into an online repository for historical and ongoing research.
+5. **ASSESS**: Continually leverage the cataloged information and update enrichment to understand OSINT-based Continuous Threat Exposure management across the space sector.
 
 ## DECOMPOSE:
 
