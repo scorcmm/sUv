@@ -20,10 +20,6 @@
 
 **Asset:** Fourth-level taxonomy abstraction element used to develop an operational ontology for a Space Data System.
 
-
-## 6 Primary Capability Areas
-## 11 Secondary Capability Areas
-
 **Baseline Taxonomy:**
 
 **Primary Capability:** Highest level taxonomy element used to categorize and determine relationships for a Space Data System.
