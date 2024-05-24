@@ -12,13 +12,13 @@
 
 ## DECOMPOSE:
 
-**Primary Capability:** First-level taxonomy abstraction element used to categorize and then determine relationships for a Space Data System. 
+**Primary Capability (PC):** First-level taxonomy abstraction element used to categorize and then determine relationships for a Space Data System. 
 
-**Secondary Capability:** Second-level taxonomy abstraction element used to develop the initial ontology for a Space Data System. 
+**Secondary Capability (SC):** Second-level taxonomy abstraction element used to develop the initial ontology for a Space Data System. 
 
-**Segment:** Third-level taxonomy abstraction element used to develop a tertiary ontology for a Space Data System.
+**Segment (S):** Third-level taxonomy abstraction element used to develop a tertiary ontology for a Space Data System.
 
-**Asset:** Fourth-level taxonomy abstraction element used to develop an operational ontology for a Space Data System.
+**Asset (A):** Fourth-level taxonomy abstraction element used to develop an operational ontology for a Space Data System.
 
 **Baseline Taxonomy:**
 
