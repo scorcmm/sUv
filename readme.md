@@ -1,11 +1,11 @@
 ![Reference Architecture](ra.png)
 
-##Framework Methodology
-**Decompose
-**Visualize
-**Enrich
-**Catalog
-**Assess
+## Framework Methodology
+** Decompose
+** Visualize
+** Enrich
+** Catalog
+** Assess
 
 ##DECOMPOSE:
 
