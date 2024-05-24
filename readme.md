@@ -25,28 +25,28 @@
 **Asset:** Fourth-level taxonomy element used to develop an operational ontology for a ToE.
 
 
-## Primary Capability Areas
+## Capability Areas
 
-1. **Aquatic Capabilities:** Capabilities related to operations in aquatic environments.
+1. **PC-Aquatic Capabilities:** Capabilities related to operations in aquatic environments.
 
-2. **Terrestrial Capabilities:** Capabilities related to land-based operations.
-   - **Launch Capabilities:** Capabilities for launching space-bound vehicles from the Earth's surface.
-   - **Ground Capabilities:** Capabilities related to ground-based operations and infrastructure.
-   - **User Capabilities:** Capabilities involving end-user operations and interfaces.
-   - **Terrestrial Network Capabilities:** Capabilities related to land-based communication networks.
+2. **PC-Terrestrial Capabilities:** Capabilities related to land-based operations.
+   - **SC-Launch Capabilities:** Capabilities for launching space-bound vehicles from the Earth's surface.
+   - **SC-Ground Capabilities:** Capabilities related to ground-based operations and infrastructure.
+   - **SC-User Capabilities:** Capabilities involving end-user operations and interfaces.
+   - **SC-Terrestrial Network Capabilities:** Capabilities related to land-based communication networks.
 
-3. **Link Capabilities:** Capabilities concerning communication links and data transfer.
+3. **PC-Link Capabilities:** Capabilities concerning communication links and data transfer.
 
-4. **Air Based Capabilities:** Capabilities related to operations in the Earth's atmosphere.
-   - **Low Altitude:** Capabilities for operations at low altitudes within the Earth's atmosphere.
-   - **High Altitude:** Capabilities for operations at high altitudes within the Earth's atmosphere.
-   - **Near Space:** Capabilities for operations in the near space region, just below the Kármán line.
+4. **PC-Air Based Capabilities:** Capabilities related to operations in the Earth's atmosphere.
+   - **SC-Low Altitude:** Capabilities for operations at low altitudes within the Earth's atmosphere.
+   - **SC-High Altitude:** Capabilities for operations at high altitudes within the Earth's atmosphere.
+   - **SC-Near Space:** Capabilities for operations in the near space region, just below the Kármán line.
 
-5. **Orbital Capabilities:** Capabilities related to operations in Earth's orbit.
-   - **LEO (Low Earth Orbit):** Capabilities for operations in low Earth orbit.
-   - **MEO (Medium Earth Orbit):** Capabilities for operations in medium Earth orbit.
-   - **GEO (Geostationary Orbit):** Capabilities for operations in geostationary orbit.
+5. **PC-Orbital Capabilities:** Capabilities related to operations in Earth's orbit.
+   - **SC-LEO (Low Earth Orbit):** Capabilities for operations in low Earth orbit.
+   - **SC-MEO (Medium Earth Orbit):** Capabilities for operations in medium Earth orbit.
+   - **SC-GEO (Geostationary Orbit):** Capabilities for operations in geostationary orbit.
 
-6. **Deep Space Capabilities:** Capabilities related to operations beyond Earth's orbit.
-   - **Deep Space Capability:** Capabilities for deep space missions and operations.
+6. **PC-Deep Space Capabilities:** Capabilities related to operations beyond Earth's orbit.
+   - **SC-Deep Space Capability:** Capabilities for deep space missions and operations.
 
