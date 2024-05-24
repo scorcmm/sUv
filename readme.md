@@ -5,7 +5,7 @@
 ## Framework Phases
 
 1. **DECOMPOSE**: Break down the space data system using an evolving taxonomy and ontology.
-2. **VISUALIZE**: Introduce icons in the form of a periodic table element, vector icon, or photorealistic format into a decomposition diagram using draw.io.
+2. **VISUALIZE**: Leverage community icons in a periodic table element, vector icon, or photorealistic format to create a decomposition diagram using draw.io.
 3. **ENRICH**: Identify open source intelligence (OSINT) sources that provide contextual information for the Target of Evaluation.
 4. **CATALOG**: Enter the contextual information into an online repository for historical and ongoing research.
 5. **ASSESS**: Continually leverage the cataloged information and update enrichment to understand OSINT-based Continuous Threat Exposure management across the space sector.
