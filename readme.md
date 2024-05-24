@@ -1,13 +1,13 @@
 ![Reference Architecture](ra.png)
 
 ## Framework Methodology
-** Decompose
-** Visualize
-** Enrich
-** Catalog
-** Assess
+**Decompose**
+**Visualize**
+**Enrich**
+**Catalog**
+**Assess**
 
-##DECOMPOSE:
+## DECOMPOSE:
 
 **Primary Capability:** First-level taxonomy abstraction element used to categorize and then determine relationships for a Target of Evaluation (ToE)  
 
