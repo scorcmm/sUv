@@ -1,6 +1,13 @@
 ![Reference Architecture](ra.png)
 
-**Baseline Taxonomy:**
+##Framework Methodology
+**Decompose
+**Visualize
+**Enrich
+**Catalog
+**Assess
+
+##DECOMPOSE:
 
 **Primary Capability:** First-level taxonomy abstraction element used to categorize and then determine relationships for a Target of Evaluation (ToE)  
 
