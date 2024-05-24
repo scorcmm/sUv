@@ -1,6 +1,5 @@
 ![Reference Architecture](ra.png)
 
-Sure, here is the updated description with the labels in bold:
 
 **Baseline Taxonomy:**
 **Primary Capability:** highest level taxonomy element used to categorize and then determine relationships for a Target of Evaluation
