@@ -1,6 +1,6 @@
 ![Reference Architecture](ra.png)
 
-# Space Universial Visualization (sUv)™ Core Community Tool
+# Space Universial Visualization (sUv)™ an ethicallyHackingspace(eHs)® Core Community Tool
 
 ## Framework Phases
 
