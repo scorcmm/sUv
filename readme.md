@@ -44,6 +44,7 @@
    - **SC-Ground Capabilities:** Capabilities related to ground-based operations and infrastructure.
    - **SC-User Capabilities:** Capabilities involving end-user operations and interfaces.
    - **SC-Terrestrial Network Capabilities:** Capabilities related to land-based communication networks.
+   - - **S-Ground Segment**
 
 3. **PC-Link Capabilities:** Capabilities concerning communication links and data transfer.
 
